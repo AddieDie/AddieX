@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AddieX
+- 👋 Hi, I’m @Addie
 
 
 <!---
